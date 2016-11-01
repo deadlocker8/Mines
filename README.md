@@ -1,2 +1,2 @@
 # Mines
-A simple Minesweeper clone
+A simple Minesweeper clone in JavaFX
